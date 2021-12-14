@@ -1,9 +1,9 @@
 # Type of Issue
 
-**I'm submitting an issue ...**
-  - [ ] to fix bug report
-  - [ ] for feature request
-  - [ ] for new testcase 
+**I'm submitting an issue for ...**
+  - [ ] bug report
+  - [ ] feature request
+  - [ ] new testcase 
 
 # Description for Bug and Feature Request
 
