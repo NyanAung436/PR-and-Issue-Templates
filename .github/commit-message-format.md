@@ -34,7 +34,7 @@ Example — `fix: remove unused dependency lodash.camelcase`
 Any line of the commit message cannot be longer 100 characters. This allows the message to be easier to read on GitHub as well as in various git tools.
 
 #### Type
-Must be one of the following:
+Must be one of the followings:
 
 * **feat**: A new feature.
 * **bug**: A bug fix.
@@ -47,7 +47,7 @@ Must be one of the following:
 The subject contains succinct description of the change:
 
 * use the imperative, present tense: `change` not `changed` nor `changes`,
-* don't capitalize first letter,
+* capitalize only the first alphabet,
 * no dot (.) at the end.
 
 #### Body
