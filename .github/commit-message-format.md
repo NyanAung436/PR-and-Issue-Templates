@@ -8,7 +8,7 @@
 
 4. Do not end the subject line with a period
 
-5. Use the imperative mood in the subject line
+5. [Use the imperative mood in the subject line](https://cbea.ms/git-commit/#:~:text=5.%20Use%20the%20imperative%20mood%20in%20the%20subject%20line)
 
 6. Wrap the body at 72 characters
 
