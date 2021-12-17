@@ -1,6 +1,6 @@
 ### If you're solving an issue 
 
-Format
+#### Format
 
 ```
 <type>: <subject> [<issue>]
@@ -39,6 +39,14 @@ Resloved #76
 ```
 
 ### If you're solving not an issue 
+
+
+#### Format
+
+```
+<type>: <subject> 
+<body> [optional, fill body if more information is needed]
+```
 
 Sample-1
 
