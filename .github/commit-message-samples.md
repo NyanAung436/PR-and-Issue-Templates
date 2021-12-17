@@ -12,7 +12,7 @@
 Sample-1
 
 ```
-refactor: remove unneccessary logs [#100]
+refactor: Remove unneccessary logs [#100]
 - change filelock module's log level to error level so that info level will not be shown in console
 
 Fixed #100
@@ -21,7 +21,7 @@ Fixed #100
 Sample-2
 
 ```
-feat: add random proxy to chrome driver [#87]
+feat: Add random proxy to chrome driver [#87]
 - add method for random proxy in random useragent method to prevent ip-blocking 
 - add chrome extensions for proxy in secrets folder
 
@@ -31,7 +31,7 @@ Resolved #87
 Sample-3
 
 ```
-perf/feat: add operations and infinite search [#76]
+perf/feat: Add operations and infinite search [#76]
 - add infinite search method for keyword scraping
 - add 5 operations using design pattern to improve algorithm performance
 
@@ -51,7 +51,7 @@ Resloved #76
 Sample-1
 
 ```
-bug: fix operation 3
+bug: Fix operation 3
 - check if mbt_tree.allNodeName) > 10:
 - check if mbt_tree.selectedNodeID != None and self.mbt_tree.selectedNodeID != "VB" 
 ```
@@ -59,7 +59,7 @@ bug: fix operation 3
 Sample-2
 
 ```
-docs: readme and folder paths
+docs: Update readme and folder paths
 - update readme for new routes, sample error response and docker-compose 
 - change folder name service_acc to secrets
 - update error codes
@@ -68,8 +68,9 @@ docs: readme and folder paths
 
 Sample-3
 ```
-refactor: code and file cleaning 
+refactor: Code and file cleaning 
 - remove validate_pred_string()
 - remove content type detections
 - remove extra function
+- remove unused .txts
 ```
