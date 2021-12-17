@@ -39,8 +39,7 @@ Must be one of the following:
 * **feat**: A new feature.
 * **bug**: A bug fix.
 * **docs**: Documentation only changes.
-* **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
-* **refactor**: A code change that neither fixes a bug nor adds a feature.
+* **refactor**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
 * **perf**: A code change that improves performance.
 * **test**: Adding missing tests.
 
