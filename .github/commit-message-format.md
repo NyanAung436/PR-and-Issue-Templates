@@ -42,6 +42,7 @@ Must be one of the followings:
 * **refactor**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
 * **perf**: A code change that improves performance.
 * **test**: Adding missing tests.
+* **breaking change**: major changes
 
 #### Subject
 The subject contains succinct description of the change:
